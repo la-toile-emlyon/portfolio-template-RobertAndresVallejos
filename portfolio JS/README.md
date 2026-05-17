@@ -3,6 +3,9 @@
 Le HTML et le CSS sont déjà en place. La page est vide.  
 Votre mission : compléter `script.js` pour que tout le contenu de `data.json` peuple la page.
 
+> Ouvrez la maquette Figma pour vous guider visuellement :
+> https://www.figma.com/design/T4TgalkGTYrvxpghmwTPUg/Portfolio
+
 ---
 
 ## Fichiers
