@@ -34,14 +34,14 @@
 
   "projets": [
     {
-      "titre":       "Album musique",
+      "titre":       "Portfolio",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.",
       "tags":        ["Web design", "Development"],
       "image":       "assets/project-img.jpeg",
       "lien":        "#"
     },
     {
-      "titre":       "Sneakershop",
+      "titre":       "Webmag",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.",
       "tags":        ["Web design", "Development"],
       "image":       "assets/project-img.jpeg",
@@ -57,9 +57,10 @@
   ],
 
   "parcours": [
-    { "annee": "2024", "titre": "Bachelor Développement Web",  "lieu": "LaToile / École"       },
-    { "annee": "2023", "titre": "Intégrateur front end",       "lieu": "Agence Studio / Entreprise" },
-    { "annee": "2022", "titre": "BTS Design Graphique",        "lieu": "Lycée Technique / École"    },
-    { "annee": "2021", "titre": "Stage UX Design",             "lieu": "StartupXYZ / Entreprise"    }
+    { "annee": "2026/2028", "titre": "BTS SIO",  "lieu": "Lycée Léonard de Vinci / École"       },
+    { "annee": "2026", "titre": "Certification emlyon business school",  "lieu": "La Toile - Emlyon / École"       },
+    { "annee": "2024", "titre": "Bachelor Informatique - alternance",       "lieu": "Esgi / École" },
+    { "annee": "2022/2023", "titre": "BUT Informatique",        "lieu": "IUT Sénart-Fontainebleau / École"    },
+    { "annee": "2021/2022", "titre": "Bac. STI2D - SIN",             "lieu": "Lycée Polyvalent Christophe Colomb / École"    }
   ]
 }
